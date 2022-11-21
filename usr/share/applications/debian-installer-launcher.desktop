@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=Install HamoniKR
+Name[ko]=하모니카 설치
+GenericName=Live Installer
+Comment=Install the operating system to disk
+Exec=sudo /usr/bin/live-installer
+Icon=live-installer
+Terminal=False
+Type=Application
+Categories=System;
